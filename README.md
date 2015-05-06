@@ -1,2 +1,1 @@
-# jQueryMobile_PopUp
-A jQuery Mobile App using PopUps Messages
+http://themvcclub.blogspot.com/2015/05/how-to-create-jquerymobile-popup-dialog-in-10-minutes.html
