@@ -1,4 +1,4 @@
-# jQuery Mobile - PopUp Dialogs
+# jQuery Mobile PopUp Dialogs
 A sample jQueryMobile App using PopUps Dialogs
 #### by Carmel Schvartzman
 This is the companion code for the following tutorial:
